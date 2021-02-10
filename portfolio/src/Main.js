@@ -157,7 +157,7 @@ class Main extends Component {
                     </Tabs>
                 </AppBar>
                 <Container className={classes.container} maxWidth="false">
-                    <div ref={this.intro}><Intro /><Carousel/></div>
+                    <div ref={this.intro}><Intro /></div>
                     <div ref={this.projects}><Projects /></div>
                     <div ref={this.skills}><Skills /></div>
                     <div ref={this.contact}><Contact /></div>
