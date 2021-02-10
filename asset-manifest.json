@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.310de2fa.chunk.css",
+    "main.js": "/website/static/js/main.c8ada5de.chunk.js",
+    "main.js.map": "/website/static/js/main.c8ada5de.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.ee2902e9.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.ee2902e9.js.map",
+    "static/js/2.e2f0ca9f.chunk.js": "/website/static/js/2.e2f0ca9f.chunk.js",
+    "static/js/2.e2f0ca9f.chunk.js.map": "/website/static/js/2.e2f0ca9f.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.df8b15cc01791c426e7f34c9dfc4e58e.js": "/website/precache-manifest.df8b15cc01791c426e7f34c9dfc4e58e.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.310de2fa.chunk.css.map": "/website/static/css/main.310de2fa.chunk.css.map",
+    "static/js/2.e2f0ca9f.chunk.js.LICENSE.txt": "/website/static/js/2.e2f0ca9f.chunk.js.LICENSE.txt",
+    "static/media/14.jpg": "/website/static/media/14.5357ad17.jpg",
+    "static/media/Aditya.jpg": "/website/static/media/Aditya.d9855b0b.jpg",
+    "static/media/logo.svg": "/website/static/media/logo.5d5d9eef.svg",
+    "static/media/try.jpg": "/website/static/media/try.d26fb8ab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee2902e9.js",
+    "static/js/2.e2f0ca9f.chunk.js",
+    "static/css/main.310de2fa.chunk.css",
+    "static/js/main.c8ada5de.chunk.js"
+  ]
+}
