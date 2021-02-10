@@ -1,0 +1,158 @@
+[
+    {
+        "skillname": {
+            "BackEnd": [
+                {
+                    "starIcon": 4,
+                    "name": "Flask"
+                },
+                {
+                    "starIcon": 3,
+                    "name": "SQL"
+                },
+                {
+                    "starIcon": 4,
+                    "name": "Firebase"
+                }
+            ],
+            "ProgLang": [
+                {
+                    "starIcon": 5,
+                    "name": "Python3(NumPy, Pandas, Plotly, Matplotlib, Seaborn)"
+                },
+                {
+                    "starIcon": 3,
+                    "name": "C++"
+                },
+                {
+                    "name": "Java",
+                    "starIcon": 3
+                },
+                {
+                    "name": "JavaScript",
+                    "starIcon": 4
+                }
+            ],
+            "FrontEnd": [
+                {
+                    "starIcon": 4,
+                    "name": "ReactJS"
+                },
+                {
+                    "starIcon": 3,
+                    "name": "HTML,CSS"
+                }
+            ],
+            "Tools": [
+                {
+                    "starIcon": 4,
+                    "name": "Tableau"
+                },
+                {
+                    "starIcon": 3,
+                    "name": "Oracle Database 11g"
+                },
+                {
+                    "name": "SAP Business Warehouse on HANA",
+                    "starIcon": 5
+                },
+                {
+                    "name": "GitHub",
+                    "starIcon": 4
+                },
+                {
+                    "name": "SAS",
+                    "starIcon": 4
+                },
+                {
+                    "starIcon": 5,
+                    "name": "Microsoft Excel"
+                },
+                {
+                    "name": "SAP Business Object",
+                    "starIcon": 4
+                }
+            ]
+        }
+    }
+][
+    {
+        "skillname": {
+            "BackEnd": [
+                {
+                    "starIcon": 4,
+                    "name": "Flask"
+                },
+                {
+                    "starIcon": 3,
+                    "name": "SQL"
+                },
+                {
+                    "starIcon": 4,
+                    "name": "Firebase"
+                }
+            ],
+            "ProgLang": [
+                {
+                    "starIcon": 5,
+                    "name": "Python3(NumPy, Pandas, Plotly, Matplotlib, Seaborn)"
+                },
+                {
+                    "starIcon": 3,
+                    "name": "C++"
+                },
+                {
+                    "name": "Java",
+                    "starIcon": 3
+                },
+                {
+                    "name": "JavaScript",
+                    "starIcon": 4
+                }
+            ],
+            "FrontEnd": [
+                {
+                    "starIcon": 4,
+                    "name": "ReactJS"
+                },
+                {
+                    "starIcon": 3,
+                    "name": "HTML,CSS"
+                }
+            ],{
+            "name":"Tools",
+            "value": [
+                {
+                    "starIcon": 4,
+                    "name": "Tableau"
+                },
+                {
+                    "starIcon": 3,
+                    "name": "Oracle Database 11g"
+                },
+                {
+                    "name": "SAP Business Warehouse on HANA",
+                    "starIcon": 5
+                },
+                {
+                    "name": "GitHub",
+                    "starIcon": 4
+                },
+                {
+                    "name": "SAS",
+                    "starIcon": 4
+                },
+                {
+                    "starIcon": 5,
+                    "name": "Microsoft Excel"
+                },
+                {
+                    "name": "SAP Business Object",
+                    "starIcon": 4
+                }
+            }
+            ]
+        }
+    
+    }
+]
